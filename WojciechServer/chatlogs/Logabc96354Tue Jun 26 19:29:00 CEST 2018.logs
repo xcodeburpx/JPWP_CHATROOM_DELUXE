@@ -1,0 +1,8 @@
+* a joined the room *
+* b joined the room *
+* g joined the room *
+a: Hello!
+* b left the room *
+* g left the room *
+* a left the room *
+* Chatroom has been killed *
