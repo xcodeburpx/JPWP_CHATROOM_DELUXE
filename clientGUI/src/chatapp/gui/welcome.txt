@@ -1,0 +1,13 @@
+Welcome!!
+This is your first testing window!!!
+And your first entrance to this application!!
+On this area you will receive information from the "roommates"!
+You can share your opinions, ideas or something more ;-).
+Enjoy your stay!
+
+
+P.S.
+This is not final version so we still have some flows.
+For example some users can delete the room while you still are
+logged in.
+We will fix it in the future!

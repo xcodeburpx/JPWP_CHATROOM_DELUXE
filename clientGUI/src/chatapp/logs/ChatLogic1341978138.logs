@@ -1,0 +1,30 @@
+Jun 26, 2018 7:29:16 PM chatapp.logic.ChatLogic handleClient
+INFO: Message type: USER_ADDED
+Jun 26, 2018 7:29:16 PM chatapp.logic.ChatLogic handleClient
+INFO: Message type: CHATROOM_JOIN_RESPONSE
+Jun 26, 2018 7:29:33 PM chatapp.logic.ChatLogic handleClient
+INFO: Message type: USER_ADDED
+Jun 26, 2018 7:29:33 PM chatapp.logic.ChatLogic handleClient
+INFO: Message type: CHATROOM_JOIN_RESPONSE
+Jun 26, 2018 7:29:36 PM chatapp.logic.ChatLogic handleClient
+INFO: Message type: CHATROOM_EXISTS_RESPONSE
+Jun 26, 2018 7:29:36 PM chatapp.logic.ChatLogic handleClient
+INFO: Message type: MSG
+Jun 26, 2018 7:29:45 PM chatapp.logic.ChatLogic handleClient
+INFO: Message type: MSG
+Jun 26, 2018 7:30:12 PM chatapp.logic.ChatLogic handleClient
+INFO: Message type: MSG
+Jun 26, 2018 7:30:16 PM chatapp.logic.ChatLogic handleClient
+INFO: Message type: CHATROOM_EXISTS_RESPONSE
+Jun 26, 2018 7:30:16 PM chatapp.logic.ChatLogic handleClient
+INFO: Message type: MSG
+Jun 26, 2018 7:30:17 PM chatapp.logic.ChatLogic handleClient
+INFO: Message type: CHATROOM_EXISTS_RESPONSE
+Jun 26, 2018 7:30:17 PM chatapp.logic.ChatLogic handleClient
+INFO: Message type: MSG
+Jun 26, 2018 7:30:29 PM chatapp.logic.ChatLogic handleClient
+INFO: Message type: USER_DELETED
+Jun 26, 2018 7:30:29 PM chatapp.logic.ChatLogic handleClient
+INFO: Message type: USER_DELETED
+Jun 26, 2018 7:30:33 PM chatapp.logic.ChatLogic handleClient
+INFO: Message type: LOGOUT_RESPONSE
